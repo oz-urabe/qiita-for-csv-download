@@ -1,0 +1,5 @@
+[mysqld]
+character-set-server=utf8
+secure-file-priv=""
+[client]
+password=secret
